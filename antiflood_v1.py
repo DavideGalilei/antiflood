@@ -4,10 +4,7 @@ flooders = {}
 MESSAGES = 3
 SECONDS = 1
 
-oldtime = time
-
 def isFlood(userid):
-
     userid = str(userid)
     
     try:
