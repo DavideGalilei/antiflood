@@ -21,7 +21,7 @@ def isFlood(userid):
         else:
             return (False)
 
-for i in range(300):
+while True:
     input("")
     if isFlood(11):
         print("flood")
