@@ -24,5 +24,5 @@ if __name__ == "__main__":
         if is_flood(12345678):
             print("flood")
         else:
-           print("non flood")
+           print("not flood")
     print()
